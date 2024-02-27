@@ -110,23 +110,6 @@ for js in json_data:
         print(i)
 
 
-
-
-
-    
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-    # df.loc[len(df)-1, 'id'] = js['id']
-
-    # print(df)
-
 print(df)
 unique_count = df['id'].nunique()
 print(f"Number of unique values in the column: {unique_count}")

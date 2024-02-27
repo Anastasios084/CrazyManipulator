@@ -28,6 +28,6 @@ def concatenate_json_files(directory, output_file):
     with codecs.open(output_file, 'w', encoding='utf-8', errors='ignore') as outfile:
         json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
 # Usage example
-directory = """C:\\Users\\tasar\\Desktop\\Random projects\\crazytime manipulator\\bulk _data"""
+directory = """C:\\Users\\tasar\\Desktop\\Random projects\\crazytime manipulator\\bulk _data""" ############ FIX PATH
 output_file = 'combined_data.json'
 concatenate_json_files(directory, output_file)
