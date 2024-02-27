@@ -1,0 +1,60 @@
+{
+    "id": "65de1f7fd3572a704f8e2b8b",
+    "transmissionId": "djItMS0wOjUxMjQ3OTkzMy0xNzA5MDU1ODcxNzU3",
+    "data": {
+        "id": "17b7c92c29a7d6af8bb38d8c",
+        "startedAt": "2024-02-27T17:42:55.124Z",
+        "settledAt": "2024-02-27T17:44:30.360Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 0.47,
+        "payout": 11.81,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Sofija",
+            "uid": "tts134207_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "Pachinko",
+                    "multiplier": 2
+                },
+                "wheelResult": {
+                    "type": "BonusRound",
+                    "wheelSector": "CrazyBonus",
+                    "bonus": {
+                        "type": "CrazyBonus",
+                        "flapperResult": {
+                            "left": {
+                                "flapper": {
+                                    "color": "Green"
+                                },
+                                "bonusMultiplier": 10
+                            },
+                            "top": {
+                                "flapper": {
+                                    "color": "Blue"
+                                },
+                                "bonusMultiplier": 100
+                            },
+                            "right": {
+                                "flapper": {
+                                    "color": "Yellow"
+                                },
+                                "bonusMultiplier": 20
+                            }
+                        }
+                    }
+                },
+                "maxMultiplier": 100,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

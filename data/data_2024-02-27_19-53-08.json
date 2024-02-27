@@ -1,0 +1,29 @@
+{
+    "id": "65de2178d3572a704f8e2bb0",
+    "data": {
+        "id": "17b7c9af32e949b94fa4cb67",
+        "startedAt": "2024-02-27T17:52:16.038Z",
+        "settledAt": "2024-02-27T17:52:56.542Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "numOfParticipants": 0,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "CrazyBonus"
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "1"
+                },
+                "maxMultiplier": 1,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

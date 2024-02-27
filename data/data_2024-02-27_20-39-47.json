@@ -1,0 +1,37 @@
+{
+    "id": "65de2c67d3572a704f8e2c84",
+    "transmissionId": "djItMS0wOjUxMjU3NTI0OC0xNzA5MDU5MTc0Njgw",
+    "data": {
+        "id": "17b7cc3980f2f96f373cd207",
+        "startedAt": "2024-02-27T18:38:50.959Z",
+        "settledAt": "2024-02-27T18:39:33.872Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 2.53,
+        "payout": 0.41,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Alise",
+            "uid": "tts131885_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "CoinFlip",
+                    "multiplier": 2
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "1"
+                },
+                "maxMultiplier": 1,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

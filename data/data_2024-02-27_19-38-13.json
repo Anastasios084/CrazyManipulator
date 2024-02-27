@@ -1,0 +1,37 @@
+{
+    "id": "65de1e02d3572a704f8e2b6a",
+    "transmissionId": "djItMS0wOjUxMjQ2OTI0OC0xNzA5MDU1NDkwMTM4",
+    "data": {
+        "id": "17b7c8dfb045892875ef8a78",
+        "startedAt": "2024-02-27T17:37:26.671Z",
+        "settledAt": "2024-02-27T17:38:09.519Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 0.0,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Sofija",
+            "uid": "tts134207_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "Pachinko",
+                    "multiplier": 4
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "10"
+                },
+                "maxMultiplier": 10,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

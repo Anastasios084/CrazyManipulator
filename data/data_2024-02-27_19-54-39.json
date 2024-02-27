@@ -1,0 +1,71 @@
+{
+    "id": "65de21d0d3572a704f8e2bb6",
+    "transmissionId": "djItMS0wOjUxMjQ5NzM3MC0xNzA5MDU2NDYzOTYx",
+    "totalWinners": 4161,
+    "totalAmount": 6470,
+    "winners": [
+        {
+            "screenName": "CUL...",
+            "winnings": 552.97,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "jwS...",
+            "winnings": 111.24,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Max...",
+            "winnings": 100.0,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "chi...",
+            "winnings": 82.32,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Ren...",
+            "winnings": 74.02,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17b7c9c34a9d01fbeddab320",
+        "startedAt": "2024-02-27T17:53:44.218Z",
+        "settledAt": "2024-02-27T17:54:23.130Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 1.17,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Sofija",
+            "uid": "tts134207_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "2",
+                    "multiplier": 3
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "1"
+                },
+                "maxMultiplier": 1,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

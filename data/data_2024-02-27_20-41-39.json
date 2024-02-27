@@ -1,0 +1,94 @@
+{
+    "id": "65de2cd1d3572a704f8e2c8d",
+    "transmissionId": "djItMS0wOjUxMjU3ODUwOC0xNzA5MDU5MjgwOTMz",
+    "totalWinners": 7325,
+    "totalAmount": 184492,
+    "winners": [
+        {
+            "screenName": "B p",
+            "winnings": 4684.35,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "SAI...",
+            "winnings": 3213.49,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Ily...",
+            "winnings": 2576.24,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Fim...",
+            "winnings": 2359.24,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Sel...",
+            "winnings": 1950.0,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17b7cc44d81cd030333b6e6f",
+        "startedAt": "2024-02-27T18:39:39.666Z",
+        "settledAt": "2024-02-27T18:41:20.011Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 3.0,
+        "payout": 31.33,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Alise",
+            "uid": "tts131885_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "CashHunt",
+                    "multiplier": 4
+                },
+                "wheelResult": {
+                    "type": "BonusRound",
+                    "wheelSector": "CrazyBonus",
+                    "bonus": {
+                        "type": "CrazyBonus",
+                        "flapperResult": {
+                            "left": {
+                                "flapper": {
+                                    "color": "Green"
+                                },
+                                "bonusMultiplier": 50
+                            },
+                            "top": {
+                                "flapper": {
+                                    "color": "Blue"
+                                },
+                                "bonusMultiplier": 50
+                            },
+                            "right": {
+                                "flapper": {
+                                    "color": "Yellow"
+                                },
+                                "bonusMultiplier": 25
+                            }
+                        }
+                    }
+                },
+                "maxMultiplier": 50,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

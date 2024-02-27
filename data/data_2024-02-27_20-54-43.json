@@ -1,0 +1,71 @@
+{
+    "id": "65de2ff0d3572a704f8e2cc8",
+    "transmissionId": "djItMS0wOjUxMjYwMzkyMi0xNzA5MDYwMDgwMjI5",
+    "totalWinners": 3921,
+    "totalAmount": 10886,
+    "winners": [
+        {
+            "screenName": "Ok",
+            "winnings": 1773.37,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Ver...",
+            "winnings": 204.76,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Tri...",
+            "winnings": 200.23,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "KEi",
+            "winnings": 166.03,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "BJ4...",
+            "winnings": 153.57,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17b7cd0c42b74801cad29bf8",
+        "startedAt": "2024-02-27T18:53:56.153Z",
+        "settledAt": "2024-02-27T18:54:39.261Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 3.62,
+        "payout": 0.41,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Benedict",
+            "uid": "tts120976_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "CrazyBonus",
+                    "multiplier": 2
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "2"
+                },
+                "maxMultiplier": 2,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

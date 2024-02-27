@@ -1,0 +1,71 @@
+{
+    "id": "65de2edad3572a704f8e2cb4",
+    "transmissionId": "djItMS0wOjUxMjU5NTEzNi0xNzA5MDU5ODAxOTQw",
+    "totalWinners": 4823,
+    "totalAmount": 11053,
+    "winners": [
+        {
+            "screenName": "Mak...",
+            "winnings": 757.72,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Gad...",
+            "winnings": 266.39,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "316...",
+            "winnings": 207.54,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "KEi",
+            "winnings": 166.03,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Mar...",
+            "winnings": 150.0,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17b7cccb1a4be73b424b53cb",
+        "startedAt": "2024-02-27T18:49:16.302Z",
+        "settledAt": "2024-02-27T18:50:01.291Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 1.85,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Alise",
+            "uid": "tts131885_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "Pachinko",
+                    "multiplier": 3
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "2"
+                },
+                "maxMultiplier": 2,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

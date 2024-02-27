@@ -1,0 +1,71 @@
+{
+    "id": "65de2801d3572a704f8e2c30",
+    "transmissionId": "djItMS0wOjUxMjU0MzMwMC0xNzA5MDU4MDQ4OTA2",
+    "totalWinners": 6710,
+    "totalAmount": 48450,
+    "winners": [
+        {
+            "screenName": "dee",
+            "winnings": 2100.51,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Alc...",
+            "winnings": 1950.71,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Edw...",
+            "winnings": 1048.09,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "316...",
+            "winnings": 760.97,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "sum...",
+            "winnings": 725.45,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17b7cb35124afc5a4442de11",
+        "startedAt": "2024-02-27T18:20:12.411Z",
+        "settledAt": "2024-02-27T18:20:47.930Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 12.86,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Alise",
+            "uid": "tts131885_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "2",
+                    "multiplier": 25
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "10"
+                },
+                "maxMultiplier": 10,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

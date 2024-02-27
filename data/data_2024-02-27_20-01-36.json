@@ -1,0 +1,37 @@
+{
+    "id": "65de2376d3572a704f8e2bda",
+    "transmissionId": "djItMS0wOjUxMjUwOTQ4NS0xNzA5MDU2ODg1NzI2",
+    "data": {
+        "id": "17b7ca252eabc3849d1b9da7",
+        "startedAt": "2024-02-27T18:00:44.656Z",
+        "settledAt": "2024-02-27T18:01:24.810Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 24.55,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Sofija",
+            "uid": "tts134207_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "1",
+                    "multiplier": 3
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "1"
+                },
+                "maxMultiplier": 3,
+                "isTopSlotMatchedToWheelResult": true
+            }
+        }
+    }
+}
