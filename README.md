@@ -10,7 +10,7 @@ The api link found in a random json is this:
 
 Which returns the last 10 draws.
 
-With a bit reverse engineer you can get the latest draw with this: 
+With a bit of reverse engineer you can get the latest draw with this: 
 
 **https://api.casinoscores.com/svc-evolution-game-events/api/crazytime/latest?tableId=CrazyTime0000001**
 
