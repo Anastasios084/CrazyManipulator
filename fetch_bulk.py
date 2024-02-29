@@ -107,5 +107,12 @@ while True:
     #         # Move and rename the file
     #         shutil.move(source_path, destination_path)
     #         print(f'Moved and renamed: {source_path} to {destination_path}')
+    file_path = "./bulk_data/combined_data.json"
+    if os.path.exists(file_path):
+        os.remove(file_path)
+        print("Combined jsons removed successfully")
+    else:
+        print("There are no  combined jsons to remove.")
 
-    sleep(21600)
+    print("Sleeping for 10 minutes...")
+    sleep(600)
