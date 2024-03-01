@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import json
-def fill_df(df, json_data):
+def fill_df(df, json_data, f_path="./"):
     i = 0
 
     for js in json_data:
@@ -109,5 +109,5 @@ def fill_df(df, json_data):
     print(df)
     unique_count = df['id'].nunique()
     print(f"Number of unique values in the column: {unique_count}")
-    df.to_csv("crazy.csv", index=False)
+    df.to_csv(f_path+"crazy.csv", index=False)
 

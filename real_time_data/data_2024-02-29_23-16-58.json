@@ -1,0 +1,71 @@
+{
+    "id": "65e0f43cd3572a704f8e60df",
+    "transmissionId": "djItMS0wOjUxNjE2MTk5Ni0xNzA5MjQxNDA0NzQ2",
+    "totalWinners": 2915,
+    "totalAmount": 9179,
+    "winners": [
+        {
+            "screenName": "yun...",
+            "winnings": 265.95,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "BUR...",
+            "winnings": 225.0,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "raf...",
+            "winnings": 225.0,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Joh...",
+            "winnings": 201.98,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "\u043f\u0430\u0432...",
+            "winnings": 181.85,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17b871f765731731910b3d44",
+        "startedAt": "2024-02-29T21:16:05.960Z",
+        "settledAt": "2024-02-29T21:16:43.950Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 22.42,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Viesturs Mat\u012bss",
+            "uid": "tts139833_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "1",
+                    "multiplier": 3
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "2"
+                },
+                "maxMultiplier": 2,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "id": "65e0f327d3572a704f8e60ce",
+    "transmissionId": "djItMS0wOjUxNjE1MTc0Ny0xNzA5MjQxMTI3Mzkx",
+    "totalWinners": 3758,
+    "totalAmount": 57845,
+    "winners": [
+        {
+            "screenName": "hyu...",
+            "winnings": 14949.48,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Fou...",
+            "winnings": 5612.23,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "ZLO...",
+            "winnings": 3300.0,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "DD",
+            "winnings": 2989.9,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "CUL...",
+            "winnings": 1014.91,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17b871b5afc461eb4916d3f6",
+        "startedAt": "2024-02-29T21:11:23.739Z",
+        "settledAt": "2024-02-29T21:12:06.835Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 0.0,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Viesturs Mat\u012bss",
+            "uid": "tts139833_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "Pachinko",
+                    "multiplier": 2
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "10"
+                },
+                "maxMultiplier": 10,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

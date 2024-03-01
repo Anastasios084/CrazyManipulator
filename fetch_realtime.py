@@ -42,7 +42,7 @@ while True:
         # Format: YYYY-MM-DD_HH-MM-SS
         datetime_str = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         # Construct the filename with the current datetime
-        filename = f"./data/data_{datetime_str}.json"
+        filename = f"./real_time_data/data_{datetime_str}.json"
         # Save the data to a JSON file with the generated filename
         with open(filename, 'w') as f:
             json.dump(json_data, f, indent=4)
