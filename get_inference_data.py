@@ -188,7 +188,7 @@ def get_inference_data(size):
 
 
     file_path = "./inference/inference_data.json"
-    # Now, try to load the JSON from the new filerqwerrqwerrqwerrqwerrqwerrqwerqwerrqwerrqwerrqwerrqwerqwerqwerrqwerrqwerrqwerqwerqwer
+    # Now, try to load the JSON from the new file
     with open(file_path, 'r', encoding='utf-8') as file:
         json_data = json.load(file)  # This should now work without errors
 
