@@ -1,0 +1,210 @@
+{
+    "id": "65eb14d8a68ed2448a4fd8ba",
+    "transmissionId": "djItMS0wOjUyNzkzNzMyNi0xNzA5OTA1MTEzNjE2",
+    "totalWinners": 11025,
+    "totalAmount": 112602,
+    "winners": [
+        {
+            "screenName": "Str...",
+            "winnings": 7651.64,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "ric...",
+            "winnings": 1826.37,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "aqx...",
+            "winnings": 1574.61,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "MIn",
+            "winnings": 1506.76,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "yuu...",
+            "winnings": 1438.27,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17bacd8e58a863a91e09e78d",
+        "startedAt": "2024-03-08T13:36:59.797Z",
+        "settledAt": "2024-03-08T13:38:31.054Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 1.0,
+        "payout": 10.2,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Jolanta",
+            "uid": "tts150516_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "1",
+                    "multiplier": 4
+                },
+                "wheelResult": {
+                    "type": "BonusRound",
+                    "wheelSector": "CashHunt",
+                    "bonus": {
+                        "type": "CashHunt",
+                        "bonusMultipliers": [
+                            [
+                                10,
+                                20,
+                                20,
+                                5,
+                                20,
+                                20,
+                                15,
+                                10,
+                                50
+                            ],
+                            [
+                                10,
+                                10,
+                                5,
+                                75,
+                                20,
+                                15,
+                                7,
+                                7,
+                                5
+                            ],
+                            [
+                                10,
+                                20,
+                                5,
+                                20,
+                                5,
+                                15,
+                                20,
+                                20,
+                                5
+                            ],
+                            [
+                                20,
+                                7,
+                                25,
+                                25,
+                                15,
+                                15,
+                                7,
+                                15,
+                                10
+                            ],
+                            [
+                                7,
+                                7,
+                                50,
+                                25,
+                                10,
+                                5,
+                                25,
+                                20,
+                                5
+                            ],
+                            [
+                                20,
+                                25,
+                                25,
+                                50,
+                                75,
+                                7,
+                                5,
+                                75,
+                                15
+                            ],
+                            [
+                                10,
+                                75,
+                                20,
+                                5,
+                                10,
+                                10,
+                                5,
+                                7,
+                                5
+                            ],
+                            [
+                                20,
+                                7,
+                                10,
+                                20,
+                                20,
+                                10,
+                                7,
+                                100,
+                                15
+                            ],
+                            [
+                                5,
+                                10,
+                                50,
+                                7,
+                                20,
+                                50,
+                                20,
+                                10,
+                                20
+                            ],
+                            [
+                                20,
+                                15,
+                                50,
+                                10,
+                                75,
+                                20,
+                                5,
+                                15,
+                                15
+                            ],
+                            [
+                                20,
+                                20,
+                                10,
+                                10,
+                                15,
+                                10,
+                                5,
+                                15,
+                                10
+                            ],
+                            [
+                                7,
+                                50,
+                                10,
+                                15,
+                                20,
+                                15,
+                                25,
+                                20,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "cashHuntMaxMultiplier": 100,
+                "cashHuntMinMultiplier": 5,
+                "maxMultiplier": 100,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

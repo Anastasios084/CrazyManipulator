@@ -1,0 +1,71 @@
+{
+    "id": "65eb13baa68ed2448a4fd8aa",
+    "transmissionId": "djItMS0wOjUyNzkzMjMyMy0xNzA5OTA0ODI2ODQ0",
+    "totalWinners": 5317,
+    "totalAmount": 16594,
+    "winners": [
+        {
+            "screenName": "app...",
+            "winnings": 547.91,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "ric...",
+            "winnings": 547.91,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "jb",
+            "winnings": 496.58,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "\uba39\uc9dc\uba39...",
+            "winnings": 393.65,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Jdb...",
+            "winnings": 386.13,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17bacd585527b0e5509b762f",
+        "startedAt": "2024-03-08T13:33:07.810Z",
+        "settledAt": "2024-03-08T13:33:45.259Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 8.82,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Jolanta",
+            "uid": "tts150516_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "2",
+                    "multiplier": 2
+                },
+                "wheelResult": {
+                    "type": "WinningNumber",
+                    "wheelSector": "5"
+                },
+                "maxMultiplier": 5,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

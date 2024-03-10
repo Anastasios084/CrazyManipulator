@@ -1,0 +1,80 @@
+{
+    "id": "65eb1fa2a68ed2448a4fd94b",
+    "transmissionId": "djItMS0wOjUyNzk5MTA0Mi0xNzA5OTA3ODc1MDE0",
+    "totalWinners": 8391,
+    "totalAmount": 67448,
+    "winners": [
+        {
+            "screenName": "mit...",
+            "winnings": 1872.15,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "@ev...",
+            "winnings": 1480.18,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Vin...",
+            "winnings": 1059.37,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "fis...",
+            "winnings": 1015.66,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "pz2...",
+            "winnings": 988.09,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17bad01716a1155e7b6338d0",
+        "startedAt": "2024-03-08T14:23:26.123Z",
+        "settledAt": "2024-03-08T14:24:33.309Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 1.0,
+        "payout": 3.2,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Endija",
+            "uid": "tts145722_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "CashHunt",
+                    "multiplier": 3
+                },
+                "wheelResult": {
+                    "type": "BonusRound",
+                    "wheelSector": "CoinFlip",
+                    "bonus": {
+                        "coinBonusMultiplier": 15,
+                        "type": "CoinFlip",
+                        "result": {
+                            "color": "Blue",
+                            "multiplier": 15,
+                            "type": "Tails"
+                        }
+                    }
+                },
+                "maxMultiplier": 15,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}

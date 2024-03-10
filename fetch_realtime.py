@@ -34,7 +34,7 @@ while True:
     json_data = get_json_from_url(url)
     if json_data:
         if current_id == json_data['id']: # check if a new incident has occured
-            sleep(10)
+            sleep(3)
             continue
         else:
             current_id = json_data['id']
@@ -47,4 +47,4 @@ while True:
         with open(filename, 'w') as f:
             json.dump(json_data, f, indent=4)
         print(json.dumps(json_data, indent=4))
-        sleep(10)
+        sleep(3)

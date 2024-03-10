@@ -1,0 +1,77 @@
+{
+    "id": "65eb141da68ed2448a4fd8ae",
+    "transmissionId": "djItMS0wOjUyNzkzMzk2Mi0xNzA5OTA0OTI1NjQ5",
+    "totalWinners": 9038,
+    "totalAmount": 53725,
+    "winners": [
+        {
+            "screenName": "MIn",
+            "winnings": 1506.76,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "Bat...",
+            "winnings": 1004.51,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "ric...",
+            "winnings": 1004.51,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "@ev...",
+            "winnings": 763.22,
+            "payout": null,
+            "multiplier": null
+        },
+        {
+            "screenName": "yuu...",
+            "winnings": 753.38,
+            "payout": null,
+            "multiplier": null
+        }
+    ],
+    "data": {
+        "id": "17bacd627097b9660fd12860",
+        "startedAt": "2024-03-08T13:33:51.220Z",
+        "settledAt": "2024-03-08T13:35:23.955Z",
+        "status": "Resolved",
+        "gameType": "crazytime",
+        "currency": "EUR",
+        "wager": 0.0,
+        "payout": 0.0,
+        "table": {
+            "id": "CrazyTime0000001",
+            "name": "Crazy Time"
+        },
+        "dealer": {
+            "name": "Jolanta",
+            "uid": "tts150516_______"
+        },
+        "numOfParticipants": 1,
+        "result": {
+            "outcome": {
+                "topSlot": {
+                    "wheelSector": "10",
+                    "multiplier": 2
+                },
+                "wheelResult": {
+                    "type": "BonusRound",
+                    "wheelSector": "Pachinko",
+                    "bonus": {
+                        "type": "Pachinko",
+                        "bonusMultiplier": {
+                            "value": 10
+                        }
+                    }
+                },
+                "maxMultiplier": 10,
+                "isTopSlotMatchedToWheelResult": false
+            }
+        }
+    }
+}
