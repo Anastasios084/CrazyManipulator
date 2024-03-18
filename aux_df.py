@@ -94,8 +94,11 @@ def fill_df(df, json_data, f_path="./"):
                 df.loc[len(df)-1, 'flapperBlue'] = js['data']['result']['outcome']['wheelResult']['bonus']['flapperResult']['top']['bonusMultiplier']
                 df.loc[len(df)-1, 'flapperYellow'] = js['data']['result']['outcome']['wheelResult']['bonus']['flapperResult']['right']['bonusMultiplier']
 
-            
-        df.at[len(df)-1, 'maxMulti'] = js['data']['result']['outcome']["maxMultiplier"]
+        try:
+            df.at[len(df)-1, 'maxMulti'] = js['data']['result']['outcome']["maxMultiplier"]
+        except:
+            df.at[len(df)-1, 'maxMulti'] = -1
+
         df.at[len(df)-1, 'isTopSlotMatched'] = js['data']['result']['outcome']["isTopSlotMatchedToWheelResult"]
 
 
