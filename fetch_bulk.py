@@ -56,7 +56,7 @@ def concatenate_json_files(directory, output_file):
 current_id = ""
 while True:
     for i in range(3):
-        url = 'https://api.casinoscores.com/svc-evolution-game-events/api/crazytime?size=40000&duration=2000&page={i}&tableId=CrazyTime0000001'
+        url = 'https://api.casinoscores.com/svc-evolution-game-events/api/crazytime?size=40000&duration=60000&page={i}&tableId=CrazyTime0000001'
         json_data = get_json_from_url(url)
         if json_data:
             # Construct the filename with the current datetime
